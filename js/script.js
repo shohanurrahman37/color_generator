@@ -1,5 +1,5 @@
 /**
- * => Author : shohanur rahman
+ * => Author : Mosiur Rahman sumon
  * => Description : Color picker application with huge dom functionalities
  */
 // Globals
